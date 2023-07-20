@@ -2,6 +2,79 @@
 
 List of my programming side projects.
 
+## Table of Contents 
+
+- [Programming Projects](#programming-projects)
+  * [Table of Contents](#table-of-contents)
+  * [Completed Projects](#completed-projects)
+    + [Mobile](#mobile)
+      - [SeAMK Lounas](#seamk-lounas)
+      - [SeAMK Lukkari](#seamk-lukkari)
+      - [Tsumppi Coffee Shop](#tsumppi-coffee-shop)
+      - [Räccis SeAMK Food Royale](#räccis-seamk-food-royale)
+      - [Priima Lounas](#priima-lounas)
+    + [Web](#web)
+      - [Twitch Spotify Song Request](#twitch-spotify-song-request)
+    + [Desktop](#desktop)
+    + [Other](#other)
+  * [Actively Working](#actively-working)
+    + [Mobile](#mobile-1)
+    + [Web](#web-1)
+    + [Desktop](#desktop-1)
+      - [Twitch Song Request Desktop](#twitch-song-request-desktop)
+    + [Other](#other-1)
+  * [Next Projects](#next-projects)
+    + [Mobile](#mobile-2)
+    + [Web](#web-2)
+      - [Personal Website](#personal-website)
+      - [Last Played Radio Stations Songs](#last-played-radio-stations-songs)
+      - [WoW Mplus and Raid Tools and Stats](#wow-mplus-and-raid-tools-and-stats)
+      - [Nettiauto Data Stats Analysis](#nettiauto-data-stats-analysis)
+      - [Hippos Data Stats Analysis](#hippos-data-stats-analysis)
+    + [Desktop](#desktop-2)
+      - [Quick Video Clip Trimmer](#quick-video-clip-trimmer)
+      - [Automagic Video Highlight Clipper](#automagic-video-highlight-clipper)
+      - [Drink More Water desktop](#drink-more-water-desktop)
+    + [Other](#other-2)
+  * [Potential Projects](#potential-projects)
+    + [Mobile](#mobile-3)
+      - [Friba Disc Golf Tracker](#friba-disc-golf-tracker)
+      - [Drink More Water (mobile)](#drink-more-water-mobile)
+      - [Easy Calories Tracker](#easy-calories-tracker)
+    + [Web](#web-3)
+      - [MaintenanceApp HuoltoApp](#maintenanceapp-huoltoapp)
+      - [Lunch Places](#lunch-places)
+      - [Twitch Redeem Reward Stats](#twitch-redeem-reward-stats)
+      - [Company Website](#company-website)
+      - [Guess The Price](#guess-the-price)
+      - [Partial Video Searcher using Subtitles](#partial-video-searcher-using-subtitles)
+      - [Diablo 4 Streams Leaderboard by Level](#diablo-4-streams-leaderboard-by-level)
+      - [WoW M+ Streams Catalogue](#wow-mplus-streams-catalogue)
+      - [Weight Loss Helper](#weight-loss-helper)
+    + [Desktop](#desktop-3)
+    + [Other](#other-3)
+      - [Discord Bot](#discord-bot)
+      - [Discord Channel Image Gallery and Downloader](#discord-channel-image-gallery-and-downloader)
+      - [Twitch Clips to Tiktoks Bulk Editor](#twitch-clips-to-tiktoks-bulk-editor)
+      - [Youtube Bulk Uploader](#youtube-bulk-uploader)
+      - [Twitch Broadcasts to Youtube Videos Exporter](#twitch-broadcasts-to-youtube-videos-exporter)
+      - [WoW Trade and Services Addon](#wow-trade-and-services-addon)
+      - [WoW Guild News Feed Addon](#wow-guild-news-feed-addon)
+      - [WoW Account Wide Great Vault Addon](#wow-account-wide-great-vault-addon)
+      - [Chrome Focus Search](#chrome-focus-search)
+  * [Backburner Projects](#backburner-projects)
+    + [Mobile](#mobile-4)
+      - [Copydel](#copydel)
+      - [InttiApp - TJ laskuri](#inttiapp---tj-laskuri)
+      - [Popular Event Countdows](#popular-event-countdows)
+      - [Waifu Alarm Clock](#waifu-alarm-clock)
+    + [Web](#web-4)
+      - [Mario Kart 8 Deluxe Build Optimizer](#mario-kart-8-deluxe-build-optimizer)
+      - [Holy Smoke Website Rework](#holy-smoke-website-rework)
+    + [Desktop](#desktop-4)
+    + [Other](#other-4)
+      - [Automagic Social Media Videos](#automagic-social-media-videos)
+
 ## Completed Projects
 
 ### Mobile
@@ -118,7 +191,7 @@ List of my programming side projects.
   - ?
 - Link: ?
 
-#### WoW M+ and Raid Tools and Stats
+#### WoW Mplus and Raid Tools and Stats
 ##### A web application for wow m+ and raid stats and miscellaneous tools
 - Platform: Web
 - Tech: ?
@@ -128,7 +201,7 @@ List of my programming side projects.
   - ?
 - Link: ?
 
-#### Nettiauto Data, Stats and Analysis
+#### Nettiauto Data Stats Analysis
 ##### A web application for nettiauto data, stats and analysis
 - Platform: Web
 - Tech: ?
@@ -138,7 +211,7 @@ List of my programming side projects.
   - ?
 - Link: ?
 
-#### Hippos Data, Stats and Analysis
+#### Hippos Data Stats Analysis
 ##### A web application for hippos data, stats and analysis
 - Platform: Web
 - Tech: ?
@@ -170,7 +243,7 @@ List of my programming side projects.
   - ?
 - Link: ?
 
-#### Drink More Water (desktop)
+#### Drink More Water Desktop
 ##### A Windows desktop application for reminding and tracking water intake
 - Platform: Windows
 - Tech: C#, WPF 
@@ -196,7 +269,7 @@ List of my programming side projects.
   - ?
 - Link: ?
 
-#### Drink More Water (mobile)
+#### Drink More Water Mobile
 ##### A mobile application for reminding and tracking water intake which syncs with the desktop version
 - Platform: Mobile
 - Tech: Flutter, Dart
@@ -218,7 +291,7 @@ List of my programming side projects.
 
 ### Web
 
-#### MaintenanceApp / HuoltoApp
+#### MaintenanceApp HuoltoApp
 ##### A web application for maintenance management
 - Platform: Web
 - Tech: ?
@@ -288,7 +361,7 @@ List of my programming side projects.
   - ?
 - Link: ?
 
-#### WoW M+ Streams Catalogue
+#### WoW Mplus Streams Catalogue
 ##### A web application for displaying a list of wow streams with m+ keystone level 
 - Platform: Web
 - Tech: ?
