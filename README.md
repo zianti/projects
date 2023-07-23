@@ -79,18 +79,22 @@ List of my programming side projects.
 
 ### Mobile
 
-#### SeAMK Lounas
-##### An Android lunch menu mobile application for SeAMK students
-- Platform: Mobile
-- Tech: Android, Java
+#### 2021
+
+##### Priima Lounas
+###### A lunch menu mobile application with frontend and backend for previous employer staff restaurant
+- Platform: Mobile / Backend
+- Tech: Flutter, Dart / Java, Spring Boot 
 - Features:
   - ?
   - ?
   - ?
 - Link: ?
 
-#### SeAMK Lukkari
-##### An Android timetable mobile application for SeAMK students
+#### 2018
+
+##### Räccis SeAMK Food Royale
+###### An Android lunch menu mobile application for a friend
 - Platform: Mobile
 - Tech: Java, Android
 - Features:
@@ -99,8 +103,10 @@ List of my programming side projects.
   - ?
 - Link: ?
 
-#### Tsumppi Coffee Shop
-##### An Android catalogue application for SeAMK student services coffee shop
+#### 2017
+
+##### Tsumppi Coffee Shop
+###### An Android catalogue application for SeAMK student services coffee shop
 - Platform: Mobile
 - Tech: Java, Android, Google Sheets
 - Features:
@@ -109,8 +115,8 @@ List of my programming side projects.
   - ?
 - Link: ?
 
-#### Räccis SeAMK Food Royale
-##### An Android lunch menu mobile application for a friend
+##### SeAMK Lukkari
+###### An Android timetable mobile application for SeAMK students
 - Platform: Mobile
 - Tech: Java, Android
 - Features:
@@ -119,10 +125,12 @@ List of my programming side projects.
   - ?
 - Link: ?
 
-#### Priima Lounas
-##### A lunch menu mobile application with frontend and backend for previous employer staff restaurant
-- Platform: Mobile / Backend
-- Tech: Flutter, Dart / Java, Spring Boot 
+#### 2016
+
+##### SeAMK Lounas
+###### An Android lunch menu mobile application for SeAMK students
+- Platform: Mobile
+- Tech: Android, Java
 - Features:
   - ?
   - ?
@@ -153,8 +161,10 @@ List of my programming side projects.
 
 ### Desktop
 
-#### Twitch Song Request Desktop
-##### A Windows desktop Twitch song request application with multi-platform support for song requests
+#### 2023
+
+##### Twitch Song Request Desktop
+###### A Windows desktop Twitch song request application with multi-platform support for song requests
 - Platform: Windows
 - Tech: C#, WPF 
 - Features:
