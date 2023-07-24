@@ -132,7 +132,7 @@ List of my programming side projects.
 ##### Priima Lounas
 ###### A lunch menu mobile application with frontend and backend for previous employer staff restaurant
 - Platform: Mobile / Backend
-- Tech: Flutter, Dart / Java, Spring Boot 
+- Tech: Flutter, Dart / Java, Spring Boot, PostgreSQL
 - Features:
   - Mobile frontend with Flutter and Dart, backend with Java Spring Boot
   - Backend Fetches lunch menu weekly, saves to database, frontend requests menu with Rest Api
@@ -267,9 +267,9 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Fetch all nettiauto car listings every night
+  - Display charts about car properties, histirical car prices, amount of cars on sale
+  - Find trends over time
 - Link: ?
 
 #### Hippos Data Stats Analysis
@@ -277,9 +277,9 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Fetch all driver, coach, horses, race data nightly
+  - Display charts about drivers, coaches, horses, races
+  - Find trends over time and predict winners of races
 - Link: ?
 
 ### Desktop
@@ -329,9 +329,10 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Show disc golf courses on a map
+  - Track your performance on a course and over time
+  - Sync a session with friends
+  - Do things better than competition (UDisc, etc)
 - Link: ?
 
 #### Drink More Water Mobile
@@ -339,9 +340,10 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: Flutter, Dart
 - Features:
-  - ?
-  - ?
-  - ?
+  - Sync with Drink More Water Desktop application
+  - Reminder to drink water at set intervals
+  - Calculate daily water intake
+  - Track water consumption
 - Link: ?
 
 #### Easy Calories Tracker
@@ -349,9 +351,8 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Easy and fast way to track the calories you consume daily
+  - Calorie consumption history
 - Link: ?
 
 ### Web
@@ -361,9 +362,8 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - System for tracking customer projects
+  - Users, customers, report bases, reports, attachments, tasks, messages
 - Link: ?
 
 #### Lunch Places
@@ -382,9 +382,9 @@ List of my programming side projects.
 - Platform: Web / Mobile
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Tracks channel points spent and rewards redeemed per user
+  - Displays leaderboards
+  - Shows daily spending
 - Link: ?
 
 #### Company Website
@@ -392,9 +392,7 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Information about my company
 - Link: ?
 
 #### Guess The Price 
@@ -402,9 +400,9 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Grab information of random apartment from etuovi or oikotie
+  - Show images, description, location on map, properties of the apartment
+  - Have the user guess the price of the apartment
 - Link: ?
 
 #### Partial Video Searcher using Subtitles
@@ -412,9 +410,9 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Search youtube videos based on subtitles
+  - Transcribe local videos
+  - Niilo22 video seacher? playphrase.me for inspiration
 - Link: ?
 
 #### Diablo 4 Streams Leaderboard by Level 
@@ -422,9 +420,9 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Screenshot all Diablo 4 streams on twitch
+  - OCR character levels from screenshots
+  - Display leaderboard on website
 - Link: ?
 
 #### WoW Mplus Streams Catalogue
@@ -432,9 +430,9 @@ List of my programming side projects.
 - Platform: Web
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Screenshot all wow streams on twitch
+  - OCR Mplus key levels from screenshots
+  - Display filterable list on website
 - Link: ?
 
 #### Weight Loss Helper
@@ -457,9 +455,8 @@ List of my programming side projects.
 - Platform: Discord
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Post new videos in specific discord channel text chats from specific channels
+  - Other features
 - Link: ?
 
 #### Discord Channel Image Gallery and Downloader
@@ -467,9 +464,8 @@ List of my programming side projects.
 - Platform: ?
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Display all images from a discord text channel
+  - Download images from a discord text channel
 - Link: ?
 
 #### Twitch Clips to Tiktoks Bulk Editor
@@ -477,9 +473,8 @@ List of my programming side projects.
 - Platform: ?
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Quickly edit twitch clips to tiktok videos
+  - Select areas from clips for camera and video content
 - Link: ?
 
 #### Youtube Bulk Uploader
@@ -487,9 +482,8 @@ List of my programming side projects.
 - Platform: ?
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Upload multiple videos to youtube
+  - Set schedule for publication for each video
 - Link: ?
 
 #### Twitch Broadcasts to Youtube Videos Exporter
@@ -497,9 +491,9 @@ List of my programming side projects.
 - Platform: ?
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Automatically exports past twitch broadcasts to youtube
+  - Checks every night if new broadcasts need to be exported
+  - Exports after set days have passed
 - Link: ?
 
 #### WoW Trade and Services Addon 
@@ -507,9 +501,9 @@ List of my programming side projects.
 - Platform: WoW Addon
 - Tech: Lua
 - Features:
-  - ?
-  - ?
-  - ?
+  - Reads wow trace chat and services chat
+  - Displays every message once in a list
+  - Possible to ignore specific players
 - Link: ?
 
 #### WoW Guild News Feed Addon 
@@ -517,9 +511,8 @@ List of my programming side projects.
 - Platform: WoW Addon
 - Tech: Lua
 - Features:
-  - ?
-  - ?
-  - ?
+  - Better wow guild news feed
+  - Display more information about items looted
 - Link: ?
 
 #### WoW Account Wide Great Vault Addon 
@@ -527,9 +520,8 @@ List of my programming side projects.
 - Platform: WoW Addon
 - Tech: Lua
 - Features:
-  - ?
-  - ?
-  - ?
+  - Track great vault progress on all characters
+  - Display all character vaults in a single view on any character
 - Link: ?
 
 #### Chrome Focus Search
@@ -537,9 +529,7 @@ List of my programming side projects.
 - Platform: Chrome Extension
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Focus on the search bar first when entering any website
 - Link: ?
 
 ## Backburner Projects
@@ -551,9 +541,7 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Try to create a jodel app copy for learning purposes
 - Link: ?
 
 #### InttiApp - TJ laskuri
@@ -561,9 +549,9 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Track days until mandatory military service is over
+  - Games to pass time
+  - Other features
 - Link: ?
 
 #### Popular Event Countdows
@@ -571,9 +559,8 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Display filterable popular event countdowns 
+  - Add widgets to phone home screen
 - Link: ?
 
 #### Waifu Alarm Clock
@@ -581,9 +568,8 @@ List of my programming side projects.
 - Platform: Mobile
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Wake up with your favorite anime waifu
+  - Possible to buy different waifus
 - Link: ?
 
 ### Web
@@ -618,7 +604,7 @@ List of my programming side projects.
 - Platform: ?
 - Tech: ?
 - Features:
-  - ?
-  - ?
-  - ?
+  - Comments from reddit to tiktok
+  - Tiktok top vids weekly to youtube
+  - Dataisbeautiful videos to youtube and tiktok
 - Link: ?
