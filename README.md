@@ -22,7 +22,7 @@ List of my programming side projects.
       - [2016](#2016)
         * [SeAMK WinhaWille](#seamk-winhawille)
           + An Android study registry mobile application for SeAMK students
-        * [SeAMK Lounas](#seamk-lounas)
+        * [SeAMK Ruoka](#seamk-ruoka)
           + An Android lunch menu mobile application for SeAMK students
     + [Web](#web)
       - [2023](#2023)
@@ -187,14 +187,14 @@ List of my programming side projects.
   - See all your completed courses and grades
 - Link: https://github.com/Koodattu/seamk-winhawille
 
-##### SeAMK Lounas
+##### SeAMK Ruoka
 ###### An Android lunch menu mobile application for SeAMK students
 - Platform: Mobile
 - Tech: Android, Java
 - Features:
   - See weekly lunch menus from student restaurants
   - Data is fetched from Sodexo using Rest in Json
-- Link: https://github.com/Koodattu/seamk-lounas
+- Link: -
 
 ### Web
 
