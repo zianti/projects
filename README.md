@@ -272,6 +272,7 @@ List of my programming side projects.
   - View character all seasons history
   - Rank wow xpacs
   - View and filter gear in current raid and dungeons by armor type, slot and stats
+  - List of weekly affixes
 - Link: ?
 
 #### Nettiauto Data Stats Analysis
@@ -330,6 +331,14 @@ List of my programming side projects.
   - Track water consumption
 - Link: ?
 
+#### Screenshot Categorizer
+##### A Windows desktop application for automatically sorting and categorizing
+- Platform: Windows
+- Tech: C#, WPF 
+- Features:
+  - Automatically sorts different game screenshots into categories
+- Link: ?
+  
 ### Other
 
 ## Potential Projects
