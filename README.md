@@ -304,6 +304,7 @@ List of my programming side projects.
 - Features:
   - Quickly trim video clips
   - Render out video or only audio
+  - Supports local files, youtube videos, twitch clips and vods
 - Link: ?
 
 #### Automagic Video Highlight Clipper
