@@ -377,6 +377,19 @@ List of my programming side projects.
   - Calorie consumption history
 - Link: ?
 
+#### Healthy Body, Mind & Living
+##### A mobile application for daily healthy activity tracking (and maybe desktop / web versions)
+- Platform: Mobile / Web / Desktop
+- Tech: ?
+- Features:
+ - Track activities for improving body health which in turn should improve mental health
+  - Water intake, sleep, exercise, weight loss, more
+  - Screen time, more
+ - Show daily, weekly, monthly progress, stats
+ - Monthly/yearly sub to show long history and sync between platforms
+ - Salomaa's scientifically proven dailies for mental and body health
+- Link: ?
+
 ### Web
 
 #### MaintenanceApp HuoltoApp
