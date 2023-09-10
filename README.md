@@ -66,6 +66,8 @@ List of my programming side projects.
         * A mobile application for reminding and tracking water intake which syncs with the desktop version
       - [Easy Calories Tracker](#easy-calories-tracker)
         * A mobile application for easily tracking your daily calories
+      - [Healthy Body Mind Living](#healthy-body-mind-living)
+        * A mobile application for daily healthy activity tracking
     + [Web](#web-3)
       - [MaintenanceApp HuoltoApp](#maintenanceapp-huoltoapp)
         * A web application for maintenance management
@@ -377,7 +379,7 @@ List of my programming side projects.
   - Calorie consumption history
 - Link: ?
 
-#### Healthy Body, Mind & Living
+#### Healthy Body Mind Living
 ##### A mobile application for daily healthy activity tracking (and maybe desktop / web versions)
 - Platform: Mobile / Web / Desktop
 - Tech: ?
