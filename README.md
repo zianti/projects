@@ -384,7 +384,7 @@ List of my programming side projects.
 - Platform: Mobile / Web / Desktop
 - Tech: ?
 - Features:
- - Track activities for improving body health which in turn should improve mental health
+  - Track activities for improving body health which in turn should improve mental health
   - Water intake, sleep, exercise, weight loss, more
   - Screen time, more
  - Show daily, weekly, monthly progress, stats
