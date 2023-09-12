@@ -89,8 +89,10 @@ List of my programming side projects.
         * An application for helping calculate goals for weight loss
     + [Desktop](#desktop-3)
     + [Other](#other-3)
-      - [Discord Bot](#discord-bot)
+      - [Personal Discord Bot](#personal-discord-bot)
         * A discord bot for posting video feeds for uploaded videos and other features
+      - [WoW RaiderIO Discord Bot](#wow-raiderio-discord-bot)
+        * A discord bot for rating classes, specs and realms
       - [Discord Channel Image Gallery and Downloader](#discord-channel-image-gallery-and-downloader)
         * An application for viewing and downloading images from a discord channel
       - [Twitch Clips to Tiktoks Bulk Editor](#twitch-clips-to-tiktoks-bulk-editor)
@@ -487,13 +489,25 @@ List of my programming side projects.
 
 ### Other
 
-#### Discord Bot
-##### A discord bot for posting video feeds for uploaded videos and other features
+#### Personal Discord Bot
+##### A personal discord bot for posting video feeds for uploaded videos and other features
 - Platform: Discord
 - Tech: ?
 - Features:
   - Post new videos in specific discord channel text chats from specific channels
   - Other features
+- Link: ?
+
+#### WoW RaiderIO Discord Bot
+##### A discord bot for rating classes, specs and realms
+- Platform: Discord
+- Tech: ?
+- Features:
+  - Player can direct message bot to subscribe for bot to subscribe to raider.io m+ runs 
+  - Player can connect battle.net / raider.io account to bot
+  - Bot watches raider.io m+ runs
+  - Bot sends a direct message and asks player to rate individual player class, spec and realm
+  - Website to list overall statistics
 - Link: ?
 
 #### Discord Channel Image Gallery and Downloader
