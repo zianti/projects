@@ -197,6 +197,8 @@ List of my programming side projects.
   - Rank wow xpacs
   - View and filter gear in current raid and dungeons by armor type, slot and stats
   - List of weekly affixes
+  - Time spent in dungeons (from raider io m+ runs)
+  - Addon output analyzer (RCLC loot council, keycount, others with export)
 - Link: ?
 
 ### Nettiauto Data Stats Analysis
