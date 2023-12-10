@@ -7,6 +7,8 @@ List of my programming side projects.
 - [Programming Projects](#programming-projects)
   * [Table of Contents](#table-of-contents)
   * [Completed Projects](#completed-projects)
+    - [Twitch Song Request Desktop](#twitch-song-request-desktop)
+      * A Windows desktop Twitch song request application with multi-platform support for song requests
     - [Twitch Spotify Song Request](#twitch-spotify-song-request)
       + A simple javascript and python script for Twitch Spotify song requests
     - [Priima Lounas](#priima-lounas)
@@ -22,10 +24,8 @@ List of my programming side projects.
     - [SeAMK Ruoka](#seamk-ruoka)
       + An Android lunch menu mobile application for SeAMK students
   * [Actively Working On](#actively-working-on)
-    - [Twitch Song Request Desktop](#twitch-song-request-desktop)
-      * A Windows desktop Twitch song request application with multi-platform support for song requests
+    - [Personal Website](#personal-website)
   * [Potential Next Projects](#potential-next-projects)
-      - [Personal Website](#personal-website)
       - [Last Played Radio Stations Songs](#last-played-radio-stations-songs)
       - [WoW Mplus and Raid Tools and Stats](#wow-mplus-and-raid-tools-and-stats)
       - [Nettiauto Data Stats Analysis](#nettiauto-data-stats-analysis)
@@ -73,6 +73,17 @@ List of my programming side projects.
       - [Pohjoinen Guild Website](#pohjoinen-guild-website)
 
 ## Completed Projects
+
+### Twitch Song Request Desktop
+#### A Windows desktop Twitch song request application with multi-platform support for song requests
+- Platform: Windows
+- Tech: C#, WPF 
+- Features:
+  - Song requests are read from Twitch channel points redeem rewards
+  - Supports song requests from Spotify and Youtube
+  - Spotify songs are played via local Spotify installation
+  - Youtube videos are played inside application
+- Link: https://github.com/Koodattu/twitch-song-request-desktop
 
 ### Twitch Spotify Song Request
 #### A simple javascript and python script for Twitch Spotify song requests
@@ -152,19 +163,6 @@ List of my programming side projects.
 
 ## Actively Working On
 
-### Twitch Song Request Desktop
-#### A Windows desktop Twitch song request application with multi-platform support for song requests
-- Platform: Windows
-- Tech: C#, WPF 
-- Features:
-  - Song requests are read from Twitch channel points redeem rewards
-  - Supports song requests from Spotify and Youtube
-  - Spotify songs are played via local Spotify installation
-  - Youtube videos are played inside application
-- Link: https://github.com/Koodattu/twitch-song-request-desktop
-
-## Potential Next Projects
-
 ### Personal Website
 #### Personal website with CV and information about myself and my projects
 - Platform: Web
@@ -174,6 +172,8 @@ List of my programming side projects.
   - Projects
   - CV
 - Link: https://github.com/Koodattu/koodattu.github.io
+
+## Potential Next Projects
 
 ### Last Played Radio Stations Songs
 #### A web / mobile application for viewing songs last played on finnish radio stations
