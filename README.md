@@ -668,3 +668,24 @@ List of my programming side projects.
 - Features:
   - Show current price of materials to craft legendary weapon per region
 - Link: ?
+
+### Shyiez Lunch App
+#### Web or mobile app which helps you plan and decide what food to eat and what ingredients to buy
+- Platform: Web / Mobile
+- Tech: ?
+- Features:
+  - Save many recipes
+  - Shopping list from recipes
+  - Plan menu for the week
+  - No need to remember all the recipes
+- Link: ?
+
+### Stikide Electricity app
+#### Mobile app to track electricity consumption and more
+- Platform: Mobile
+- Tech: ?
+- Features:
+  - Track electricity consumption
+  - Compare with friends
+  - Get deals
+- Link: ?
