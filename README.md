@@ -689,3 +689,13 @@ List of my programming side projects.
   - Compare with friends
   - Get deals
 - Link: ?
+
+### Twitch Random Clip Player
+#### Plays random clips from twitch channel
+- Platform: Web
+- Tech: ?
+- Features:
+  - Gets clips from twitch channel
+  - Plays random clips
+  - Keeps audience engaged while streamer is afk
+- Link: ?
