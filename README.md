@@ -11,7 +11,7 @@ List of my programming side projects.
       * A Windows desktop Twitch song request application with multi-platform support for song requests
     - [Twitch Spotify Song Request](#twitch-spotify-song-request)
       + A simple javascript and python script for Twitch Spotify song requests
-    - [Priima Lounas](#priima-lounas)
+    - [Staff Restaurant Lunch Menu App](staff-restaurant-lunch-menu-app)
       + A lunch menu mobile application with frontend and backend for previous employer staff restaurant
     - [Räccis SeAMK Food Royale](#räccis-seamk-food-royale)
       + An Android lunch menu mobile application for a friend
@@ -85,6 +85,7 @@ List of my programming side projects.
   - Spotify songs are played via local Spotify installation
   - Youtube videos are played inside application
 - Link: https://github.com/Koodattu/twitch-song-request-desktop
+- Year: 2023
 
 ### Twitch Spotify Song Request
 #### A simple javascript and python script for Twitch Spotify song requests
@@ -97,7 +98,7 @@ List of my programming side projects.
 - Link: https://github.com/Koodattu/twitch-spotify-song-request
 - Year: 2023
 
-### Priima Lounas
+### Staff Restaurant Lunch Menu App
 #### A lunch menu mobile application with frontend and backend for previous employer staff restaurant
 - Platform: Mobile / Backend
 - Tech: Flutter, Dart / Java, Spring Boot, PostgreSQL
