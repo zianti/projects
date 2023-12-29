@@ -664,10 +664,13 @@ List of my programming side projects.
   
 ### WoW Legendary Price Calculator
 #### Website with current price of wow 10.2 legendary weapon crafting materials by region 
-- Platform: Web
+- Platform: Web / Backend / Discord
 - Tech: ?
 - Features:
   - Show current price of materials to craft legendary weapon per region
+  - Discord bot
+  - Price history
+  - Backend which fetches, saves and sends current price and history information 
 - Link: ?
 
 ### Shyiez Lunch App
@@ -699,4 +702,14 @@ List of my programming side projects.
   - Gets clips from twitch channel
   - Plays random clips
   - Keeps audience engaged while streamer is afk
+- Link: ?
+
+### Vaarattu.tv website
+#### Web apps and info about vaarattu twitch stream
+- Platform: Web
+- Tech: ?
+- Features:
+  - Channels points usage stats
+  - PC Specs etc
+  - Other relevant content
 - Link: ?
