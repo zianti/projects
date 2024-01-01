@@ -76,6 +76,7 @@ List of my programming side projects.
       - [Stikide Electricity app](#stikide-electricity-app)
       - [Twitch Random Clip Player](#twitch-random-clip-player)
       - [Vaarattu.tv website](#vaarattu-tv-website)
+      - [WoW Trading Post Web](#wow-trading-post-web)
 
 ## Completed Projects
 
@@ -716,4 +717,14 @@ List of my programming side projects.
   - Channels points usage stats
   - PC Specs etc
   - Other relevant content
+- Link: ?
+
+### WoW Trading Post Web
+#### Wow Trading Post items and tasks on a website
+- Platform: Web
+- Tech: ?
+- Features:
+  - Better user interface for planning which tasks to do
+  - View all items
+  - Get tasks from wowhead / in-game?
 - Link: ?
