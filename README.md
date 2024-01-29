@@ -83,8 +83,11 @@ List of my programming side projects.
 
 ### Twitch Song Request Desktop
 #### A Windows desktop Twitch song request application with multi-platform support for song requests
-- Platform: Windows
-- Tech: C#, WPF 
+- Tech:
+  - Platform: Windows
+  - Languages: C#
+  - Frontend: WPF
+  - Tools: Visual Studio
 - Features:
   - Song requests are read from Twitch channel points redeem rewards
   - Supports song requests from Spotify and Youtube
@@ -95,8 +98,11 @@ List of my programming side projects.
 
 ### Twitch Spotify Song Request
 #### A simple javascript and python script for Twitch Spotify song requests
-- Platform: Web
-- Tech: Javascript, Python 
+- Tech:
+  - Platform: Web
+  - Languages: Python, JavaScript
+  - Frontend: HTML, CSS
+  - Tools: Visual Studio Code
 - Features:
   - Python script for generating Twitch and Spotify access tokens
   - HTML page with only Javascript which can be added to OBS as a browser source
@@ -106,8 +112,12 @@ List of my programming side projects.
 
 ### Staff Restaurant Lunch Menu App
 #### A lunch menu mobile application with frontend and backend for previous employer staff restaurant
-- Platform: Mobile / Backend
-- Tech: Flutter, Dart / Java, Spring Boot, PostgreSQL
+- Tech:
+  - Platforms: Mobile, Server
+  - Languages: Dart, Java
+  - Frontend: Flutter
+  - Backend: Spring Boot, PostgreSQL
+  - Tools: IntelliJ IDEA, Visual Studio Code
 - Features:
   - Mobile frontend with Flutter and Dart, backend with Java Spring Boot
   - Backend Fetches lunch menu weekly, saves to database, frontend requests menu with Rest Api
@@ -117,8 +127,11 @@ List of my programming side projects.
   
 ### Räccis SeAMK Food Royale
 #### An Android lunch menu mobile application for a friend
-- Platform: Mobile
-- Tech: Java, Android
+- Tech:
+  - Platform: Mobile
+  - Languages: Java
+  - Frontend: Android
+  - Tools: Android Studio
 - Features:
   - Displays two restaurants daily lunch menu side by side
   - Fetches Sodexo lunch menu with rest api in Json
@@ -128,8 +141,12 @@ List of my programming side projects.
 
 ### Tsumppi Coffee Shop
 #### An Android catalogue application for SeAMK student services coffee shop
-- Platform: Mobile
-- Tech: Java, Android, Google Sheets
+- Tech:
+  - Platform: Mobile
+  - Languages: Java
+  - Frontend: Android
+  - Backend: Google Sheets
+  - Tools: Android Studio
 - Features:
   - Coffee shop products catalogue and latest social media posts
   - Catalogue data is fetched from google sheets
@@ -139,8 +156,11 @@ List of my programming side projects.
 
 ### SeAMK Lukkari
 #### An Android timetable mobile application for SeAMK students
-- Platform: Mobile
-- Tech: Java, Android
+- Tech:
+  - Platform: Mobile
+  - Languages: Java
+  - Frontend: Android
+  - Tools: Android Studio
 - Features:
   - Displays a student group's daily, weekly and period timetable
   - Create your own timetable, view other student group's timetables, search for an empty room
@@ -151,8 +171,11 @@ List of my programming side projects.
 
 ### SeAMK WinhaWille
 #### An Android study registry mobile application for SeAMK students
-- Platform: Mobile
-- Tech: Android, Java
+- Tech:
+  - Platform: Mobile
+  - Languages: Java
+  - Frontend: Android
+  - Tools: Android Studio
 - Features:
   - See your GPA and student credits
   - See all your completed courses and grades
@@ -161,8 +184,11 @@ List of my programming side projects.
 
 ### SeAMK Ruoka
 #### An Android lunch menu mobile application for SeAMK students
-- Platform: Mobile
-- Tech: Android, Java
+- Tech:
+  - Platform: Mobile
+  - Languages: Java
+  - Frontend: Android
+  - Tools: Android Studio
 - Features:
   - See weekly lunch menus from student restaurants
   - Data is fetched from Sodexo using Rest in Json
@@ -174,12 +200,18 @@ List of my programming side projects.
 ### Personal Website
 #### Personal website with CV and information about myself and my projects
 - Platform: Web
-- Tech: ? 
+- Tech:
+  - Platform: Web
+  - Languages: JavaScript
+  - Frontend: HTML, CSS
+  - Backend: Github Pages
+  - Tools: Visual Studio Code
 - Features:
   - Information about self
   - Projects
   - CV
 - Link: https://github.com/Koodattu/koodattu.github.io
+- Year: 2024
 
 ## Potential Next Projects
 
