@@ -212,7 +212,7 @@ List of my programming side projects.
   - Information about self
   - Projects
   - CV
-- Link: https://github.com/Koodattu/koodattu.github.io
+- Link: https://github.com/Koodattu/ala-ranta.la
 - Year: 2024
 
 ## Potential Next Projects
