@@ -78,6 +78,8 @@ List of my programming side projects.
       - [Vaarattu.tv website](#vaarattu-tv-website)
       - [WoW Trading Post Web](#wow-trading-post-web)
       - [Local Files Organizer](#local-files-organizer)
+      - [Diablo Quick Guides](#diablo-quick-guides)
+      - [Diablo Item Compare](#diablo-item-compare)
 
 ## Completed Projects
 
@@ -771,4 +773,24 @@ List of my programming side projects.
   - Given a folder, reads all files in all subfolders
   - Shows GUI to organize files by size, type, date
   - Possibility to output organized folder stucture
+- Link: ?
+
+### Diablo Quick Guides
+#### Quick guides for classes and build with everything on one page at a glance
+- Platform: Web
+- Tech: ?
+- Features:
+  - Simple page with quick guides for builds
+  - See relevant gear stats etc. at a glance
+  - No need to crawl through convoluted sites
+- Link: ?
+
+### Diablo Item Compare
+#### Upload images of items and see the calculated performance difference
+- Platform: Web
+- Tech: ?
+- Features:
+  - Given two images, calculate the difference in performance
+  - Remembers previous items
+  - Use optical image recognition for the stats
 - Link: ?
