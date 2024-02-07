@@ -234,7 +234,7 @@ List of my programming side projects.
   - Discord bot
   - Price history
   - Backend which fetches, saves and sends current price and history information 
-- Link: ?
+- Link: https://github.com/Koodattu/fyralath-price-tracker
 - Year: 2024
 
 ### SeAMK Ruoka Flutter
@@ -249,7 +249,7 @@ List of my programming side projects.
   - Lunch menu from SeAMK student lunch restaurants
   - Menu is parsed as JSON
   - Possible to view history and upcoming weeks
-- Link: ?
+- Link: https://github.com/Koodattu/seamk-ruoka-flutter
 - Year: 2024
 
 
