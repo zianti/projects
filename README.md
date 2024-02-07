@@ -25,8 +25,11 @@ List of my programming side projects.
       + An Android lunch menu mobile application for SeAMK students
   * [Actively Working On](#actively-working-on)
     - [Personal Website](#personal-website)
+      + Personal website with CV and information about myself and my projects
     - [Fyralath Price Tracker](#fyralath-price-tracker)
+      + Website with current price of wow 10.2 legendary weapon crafting materials by region 
     - [SeAMK Ruoka Flutter](#seamk-ruoka-flutter)
+      + SeAMK Ruoka Android application remade with Flutter and Dart
   * [Potential Next Projects](#potential-next-projects)
       - [Last Played Radio Stations Songs](#last-played-radio-stations-songs)
       - [WoW Mplus and Raid Tools and Stats](#wow-mplus-and-raid-tools-and-stats)
