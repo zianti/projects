@@ -25,6 +25,8 @@ List of my programming side projects.
       + An Android lunch menu mobile application for SeAMK students
   * [Actively Working On](#actively-working-on)
     - [Personal Website](#personal-website)
+    - [Fyralath Price Tracker](#fyralath-price-tracker)
+    - [SeAMK Ruoka Flutter](#seamk-ruoka-flutter)
   * [Potential Next Projects](#potential-next-projects)
       - [Last Played Radio Stations Songs](#last-played-radio-stations-songs)
       - [WoW Mplus and Raid Tools and Stats](#wow-mplus-and-raid-tools-and-stats)
@@ -68,10 +70,8 @@ List of my programming side projects.
       - [Finnish Twitch Streams Website By Category](#finnish-twitch-streams-website-by-category)
       - [Alerts App](#alerts-app)
       - [Multiple Marketplace Website](#multiple-marketplace-website)
-      - [SeAMK Ruoka 2 With Flutter](#seamk-ruoka-2-with-flutter)
       - [Kide App Event Ticket Bot](#kide-app-event-ticket-bot)
       - [Pohjoinen Guild Website](#pohjoinen-guild-website)
-      - [WoW Legendary Price Calculator](#wow-legendary-price-calculator)
       - [Shyiez Lunch App](#shyiez-lunch-app)
       - [Stikide Electricity app](#stikide-electricity-app)
       - [Twitch Random Clip Player](#twitch-random-clip-player)
@@ -80,6 +80,8 @@ List of my programming side projects.
       - [Local Files Organizer](#local-files-organizer)
       - [Diablo Quick Guides](#diablo-quick-guides)
       - [Diablo Item Compare](#diablo-item-compare)
+
+
 
 ## Completed Projects
 
@@ -197,6 +199,9 @@ List of my programming side projects.
 - Link: https://github.com/Koodattu/seamk-ruoka
 - Year: 2016
 
+
+
+
 ## Actively Working On
 
 ### Personal Website
@@ -214,6 +219,41 @@ List of my programming side projects.
   - CV
 - Link: https://github.com/Koodattu/ala-ranta.la
 - Year: 2024
+  
+### Fyralath Price Tracker
+#### Website with current price of wow 10.2 legendary weapon crafting materials by region 
+- Platform: Web / Backend / Discord
+- Tech:
+  - Platform: Web, Server
+  - Languages: Python, JavaScript
+  - Frontend: HTML, CSS
+  - Backend: Flask
+  - Tools: Visual Studio Code
+- Features:
+  - Show current price of materials to craft legendary weapon per region
+  - Discord bot
+  - Price history
+  - Backend which fetches, saves and sends current price and history information 
+- Link: ?
+- Year: 2024
+
+### SeAMK Ruoka Flutter
+#### SeAMK Ruoka Android application remade with Flutter and Dart
+- Platform: Mobile
+- Tech:
+  - Platform: Mobile
+  - Languages: Dart
+  - Frontend: Flutter
+  - Tools: Visual Studio Code
+- Features:
+  - Lunch menu from SeAMK student lunch restaurants
+  - Menu is parsed as JSON
+  - Possible to view history and upcoming weeks
+- Link: ?
+- Year: 2024
+
+
+
 
 ## Potential Next Projects
 
@@ -652,16 +692,6 @@ List of my programming side projects.
   - One search to search from all
 - Link: ?
 
-### SeAMK Ruoka 2 With Flutter
-#### SeAMK Ruoka Android application remade with Flutter and Dart
-- Platform: Mobile
-- Tech: ?
-- Features:
-  - Lunch menu from SeAMK student lunch restaurants
-  - Menu is parsed as JSON
-  - Possible to view history and upcoming weeks
-- Link: ?
-
 ### Kide App Event Ticket Bot
 #### A web app to reserve tickets from Kide App
 - Platform: Web
@@ -702,17 +732,6 @@ List of my programming side projects.
 - Features:
   - BiS list with droptimizer integration
   - Battle net login
-  
-### WoW Legendary Price Calculator
-#### Website with current price of wow 10.2 legendary weapon crafting materials by region 
-- Platform: Web / Backend / Discord
-- Tech: ?
-- Features:
-  - Show current price of materials to craft legendary weapon per region
-  - Discord bot
-  - Price history
-  - Backend which fetches, saves and sends current price and history information 
-- Link: ?
 
 ### Shyiez Lunch App
 #### Web or mobile app which helps you plan and decide what food to eat and what ingredients to buy
