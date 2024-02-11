@@ -230,7 +230,7 @@ List of my programming side projects.
   - Platform: Web, Server
   - Languages: Python, JavaScript
   - Frontend: HTML, CSS
-  - Backend: Flask
+  - Backend: Flask, MongoDB
   - Tools: Visual Studio Code
 - Features:
   - Show current price of materials to craft legendary weapon per region
