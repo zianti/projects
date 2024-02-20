@@ -84,8 +84,6 @@ List of my programming side projects.
       - [Diablo Quick Guides](#diablo-quick-guides)
       - [Diablo Item Compare](#diablo-item-compare)
 
-
-
 ## Completed Projects
 
 ### Twitch Song Request Desktop
@@ -202,9 +200,6 @@ List of my programming side projects.
 - Link: https://github.com/Koodattu/seamk-ruoka
 - Year: 2016
 
-
-
-
 ## Actively Working On
 
 ### Personal Website
@@ -251,9 +246,6 @@ List of my programming side projects.
   - Possible to view history and upcoming weeks
 - Link: https://github.com/Koodattu/seamk-ruoka-flutter
 - Year: 2024
-
-
-
 
 ## Potential Next Projects
 
@@ -812,4 +804,23 @@ List of my programming side projects.
   - Given two images, calculate the difference in performance
   - Remembers previous items
   - Use optical image recognition for the stats
+- Link: ?
+
+### Better Spotify Podcast Browser
+#### Website with better user interface and experience for browsing podcasts
+- Platform: Web
+- Tech: ?
+- Features:
+  - Display more information about podcasts like rating
+  - Sort podcasts by different properties
+  - Uses spotify api to search for podcasts
+- Link: ?
+
+### Simple Prices Website
+#### Website with simple user interface for browsing different items like ramstickprices.com or diskprices.com
+- Platform: Web
+- Tech: ?
+- Features:
+  - Quickly filter for what you need
+  - Find the lowest price
 - Link: ?
